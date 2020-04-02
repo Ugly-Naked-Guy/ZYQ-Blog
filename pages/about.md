@@ -1,18 +1,18 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 学习使我快乐
+keywords: 小张同学 Yuqi Zhang
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+Hi！I am a first-year master student in Statistics at University of Illinois
 
-仰慕「优雅编码的艺术」。
+我爱学习，学习使我快乐。
 
-坚信熟能生巧，努力改变人生。
+和优秀的人在一起，你会变得更优秀。
 
 ## 联系
 
